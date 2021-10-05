@@ -11,7 +11,7 @@
 </p>
 
 <p align="center"> <a target="_blank" rel="noopener noreferrer" href="https://github.com/tqtuan99/tqtuan99/blob/master/giphy.gif"><img src="https://github.com/tqtuan99/tqtuan99/blob/master/giphy.gif" alt="giphy" style="max-width:100%;"></a> </p>
-<hr>
+<hr><br>
 
 ## Info about me 📝
 - 🔭 I’m currently a Student
@@ -38,6 +38,8 @@
 
 
 ## Support ☕:
-<p><a href="buymeacoffee.com/tqtuan99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tqtuan99"> </a></p><br><br><br>
+<a href="https://www.buymeacoffee.com/tqtuan99" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tqtuan99"/></a> <br><br>
 <hr>
+
+<br>
 <h3 align="center">From QuocTuan with love <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> in VietNam <p align="center" <a target="_blank" rel="noopener noreferrer" href="https://image.flaticon.com/icons/png/512/555/555515.png"><img src="https://image.flaticon.com/icons/png/512/555/555515.png" alt="VietNam With Love" style="max-width:100%;"></a> </p> </h3>
